@@ -1,2 +1,6 @@
-# app-dev
-My first repository
+# **app-dev**
+## **My first repository**
+### **My favorite series/movies**
+-- *Spiderverse*
+-- *Minions*
+-- *Arcane*
